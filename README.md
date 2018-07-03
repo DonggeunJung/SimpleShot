@@ -24,4 +24,6 @@
 
 GitHub Link : https://github.com/DonggeunJung/SimpleShot
 
+Download APK file : https://github.com/DonggeunJung/SimpleShot/blob/master/SimpleShot.zip
+
 Any question => Email : topsan72@gmail.com / Author : Donggeun Jung (Dennis)
